@@ -1,4 +1,4 @@
-package cn.luotuoyulang.hashmapsource.hashmap.arraylist;
+package cn.luotuoyulang.hashmapsource.map.hashmap.arraylist;
 
 import java.util.LinkedList;
 

@@ -1,4 +1,4 @@
-package cn.luotuoyulang.hashmapsource.collection.list.arraylist.linkedlist.mylist;
+package cn.luotuoyulang.hashmapsource.collection.list.linkedlist.mylist;
 
 public class Test {
 

@@ -1,4 +1,4 @@
-package cn.luotuoyulang.hashmapsource.collection.list.arraylist.linkedlist;
+package cn.luotuoyulang.hashmapsource.collection.list.linkedlist;
 
 /**
  *  arrayList 集合底层数组结构

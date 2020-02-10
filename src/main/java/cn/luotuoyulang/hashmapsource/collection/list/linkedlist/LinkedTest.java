@@ -1,4 +1,5 @@
-package cn.luotuoyulang.hashmapsource.collection.list.arraylist.linkedlist;
+package cn.luotuoyulang.hashmapsource.collection.list.linkedlist;
+
 
 import java.util.LinkedList;
 
